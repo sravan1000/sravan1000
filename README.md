@@ -1,8 +1,18 @@
-### Hi there 👋
+### Hey, I'm Sravan 👋
 
+#  Entrepreneur, Engineering leadership, & IT Professional
+
+Meet Sravan, an experienced Engineer Manager with a passion for technology and leadership. With a strong background in Bash, Python, Database Science, NodeJS, TypeScript, NestJS, React, and NextJs, Sravan is a skilled engineer who knows how to build cool stuff.
+
+In addition to his technical expertise, Sravan is an exceptional leader and project manager. He has a talent for bringing teams together, inspiring them to achieve their best work and providing the guidance and support they need to succeed. With excellent communication and organizational skills, Sravan is able to keep projects on track and ensure that everyone is working together towards a common goal.
+
+Sravan is a creative problem-solver, always looking for new and innovative ways to tackle challenges. He has a strong track record of delivering projects on time and within budget, and are known for his ability to motivate and engage teams to achieve great results.
+
+Whether leading cross-functional teams or managing complex projects, Sravan is dedicated to driving results and ensuring that projects are delivered to the highest standards. He is a true leader and an asset to any organization, bringing his expertise and passion for technology to everything he does.
 <!--
 **sravan1000/sravan1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- Entrepreneur, Engineering leadership, & IT Professional
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
