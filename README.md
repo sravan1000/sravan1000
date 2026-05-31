@@ -42,6 +42,18 @@ AI  ×  Code  ×  Products  ×  Games  =  🔥
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sravan1000&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sravan1000&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 <div align="center">
 
 **Build fast. Learn faster. Ship always. 🚀**
