@@ -42,22 +42,6 @@ AI  ×  Code  ×  Products  ×  Games  =  🔥
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sravan1000&theme=tokyonight)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sravan1000&theme=tokyonight" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sravan1000&theme=tokyonight" />
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sravan1000&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sravan1000&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 **Build fast. Learn faster. Ship always. 🚀**
