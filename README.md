@@ -46,21 +46,13 @@ AI  ×  Code  ×  Products  ×  Games  =  🔥
 
 <div align="center">
 
-![Sravan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sravan1000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sravan1000&theme=tokyonight)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sravan1000&theme=tokyonight" />&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sravan1000&theme=tokyonight" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sravan1000&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sravan1000&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sravan1000&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sravan1000&theme=tokyo-night&hide_border=true)
 
 </div>
 
